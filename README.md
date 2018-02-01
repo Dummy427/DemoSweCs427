@@ -17,3 +17,5 @@ Jetzt noch eine lokale Änderung
 Staging Area(Sammelplatz für Änderungen):  Ist in "File Status" wo man seine "Änderungen" hinzufügen kann. 
 
 
+#Tags
+Tags are used to assign either unique version numbers or unique version namens to a unique state of computer software.
