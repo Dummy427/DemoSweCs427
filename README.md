@@ -5,9 +5,11 @@ mit Commit wird ein Kommentar in Log/History hinzugefügt
 
 
 
-
-
-
+Das Branching-Modell Git-Flow bringt automatisch eine einheitliche Struktur in jedes Projekt,
+was vor allem dann von Vorteil ist, wenn viele Entwickler gleichzeitig an einem Projekt arbeiten.
+Durch die parallel laufenden Branches können gleichzeitig mehrere Features entwickelt,
+ein Release vorbereitet und Hotfixes durchgeführt werden.
+Damit eignet sich das Modell auch hervorragend für größere Projekte.
 
 
 
